@@ -2,7 +2,7 @@
 
 Hi, I'm Hunter but on the internet I go by Tea Cup :)
 
-- 🔭 I’m currently working on [astrobot.org](https://astrobot.org) A Astrology based Discord Bot.
+- 🔭 I’m currently working on [astrobot.org](https://astrobot.org), An Astrology based Discord Bot.
 - 🌱 I’m currently learning TypeScript and React
 - 👯 I’m looking to collaborate on nothing at this time.
 - 🤔 I’m looking for help with nothing at this time.
