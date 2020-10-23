@@ -10,4 +10,4 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 📫 How to reach me: [support@astrobot.org](mailto:support@astrobot.org)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I own a hedgehog
-- Discord: `Tea Cup#9999`
+- Discord: `Tea Cup#9999` `(338192747754160138)`
