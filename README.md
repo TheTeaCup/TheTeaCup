@@ -11,4 +11,5 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - ⚡ Fun fact: I own a hedgehog
 - Discord: `Tea Cup#9999`
 
-# Stats
+# Currently: 
+![spotify](https://img.shields.io/endpoint?url=https://host.astrobot.org/api/badges/spotify/338192747754160138)
