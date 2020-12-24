@@ -12,4 +12,5 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - Discord: `Tea Cup#9999`
 
 # Currently: 
+![status](https://img.shields.io/endpoint?url=https://host.astrobot.org/api/badges/status/338192747754160138)
 ![spotify](https://img.shields.io/endpoint?url=https://host.astrobot.org/api/badges/spotify/338192747754160138)
