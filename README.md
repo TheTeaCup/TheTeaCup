@@ -11,3 +11,5 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I own a hedgehog
 - Discord: `Tea Cup#9999`
+
+# Stats
