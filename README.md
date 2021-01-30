@@ -14,8 +14,8 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 # 
 
   
-![status](https://img.shields.io/endpoint?url=https://host.astrobot.org/api/badges/status/338192747754160138)
-![spotify](https://img.shields.io/endpoint?url=https://host.astrobot.org/api/badges/spotify/338192747754160138)
+![status](https://img.shields.io/endpoint?url=https://astrobot.cloud/api/badges/status/338192747754160138)
+![spotify](https://img.shields.io/endpoint?url=https://astrobot.cloud/api/badges/spotify/338192747754160138)
 
 
 <!-- want to use the badges? just join my discord (https://discord.gg/duAzNKm) so it the bot gets your status then just change the ID to your ID -->
