@@ -14,7 +14,7 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 # 
 
   
-![status](https://img.shields.io/endpoint?url=https://beta-api.astrobot.org/images/status/338192747754160138)
+![status](https://img.shields.io/endpoint?url=https://api.astrobot.org/images/status/338192747754160138)
 ![spotify](https://img.shields.io/endpoint?url=https://beta-api.astrobot.org/images/spotify/338192747754160138)
 
 
