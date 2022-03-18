@@ -8,7 +8,6 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
 - 📫 How to reach me: [tea@astrobot.org](mailto:hello@theteacup.dev)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I own a hedgehog
 - Discord: `Tea Cup#9999`
 
 # 
