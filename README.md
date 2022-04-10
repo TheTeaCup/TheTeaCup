@@ -2,19 +2,9 @@
 
 Hi, I'm Hunter but on the internet I go by Tea Cup :)
 
-- 🔭 I’m currently working on [astrobot.org](https://astrobot.org), An Astrology based Discord Bot.
-- 🌱 I’m currently learning Redis and React
-- 👯 I’m looking to collaborate on nothing at this time.
+- 🔭 I’m currently working on [astrouptime.com](https://astrouptime.com), An Uptime Tracker for all your uses.
+- 🌱 I’m currently learning Next.JS
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
-- 📫 How to reach me: [tea@astrobot.org](mailto:hello@theteacup.dev)
+- 📫 How to reach me: [hello@theteacup.dev](mailto:hello@theteacup.dev)
 - 😄 Pronouns: He/Him/His
 - Discord: `Tea Cup#9999`
-
-# 
-
-  
-![status](https://img.shields.io/endpoint?url=https://api.astrobot.org/images/status/338192747754160138)
-![spotify](https://img.shields.io/endpoint?url=https://api.astrobot.org/images/spotify/338192747754160138)
-
-
-<!-- want to use the badges? just join my discord (https://discord.gg/BdQDVdfrzc) so it the bot gets your status then just change the ID to your ID -->
