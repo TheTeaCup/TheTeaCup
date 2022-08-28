@@ -8,3 +8,6 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 📫 How to reach me: [hello@theteacup.dev](mailto:hello@theteacup.dev)
 - 😄 Pronouns: He/Him/His
 - Discord: `Tea Cup#9999`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
