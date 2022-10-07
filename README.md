@@ -12,13 +12,13 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 735 Contributions in the Year 2022
+> 🏆 736 Contributions in the Year 2022
  > 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
@@ -32,9 +32,9 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 
 ```text
 🌞 Morning    151 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-🌆 Daytime    337 commits    █████████░░░░░░░░░░░░░░░░   36.16% 
+🌆 Daytime    338 commits    █████████░░░░░░░░░░░░░░░░   36.27% 
 🌃 Evening    421 commits    ███████████░░░░░░░░░░░░░░   45.17% 
-🌙 Night      23 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
+🌙 Night      22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -43,10 +43,10 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 Monday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
 Tuesday      131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
 Wednesday    137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
-Thursday     84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+Thursday     85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
 Friday       174 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
 Saturday     159 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.06% 
-Sunday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.42%
+Sunday       152 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31%
 
 ```
 
@@ -55,17 +55,16 @@ Sunday       153 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kastel-frontend          29 mins             ███████████████████████░░   94.29% 
-status-page              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
