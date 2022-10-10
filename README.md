@@ -10,15 +10,15 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - Discord: `Tea Cup#9999`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 740 Contributions in the Year 2022
+> 🏆 741 Contributions in the Year 2022
  > 
 > 📦 2.3 kB Used in GitHub's Storage 
  > 
@@ -32,9 +32,9 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 
 ```text
 🌞 Morning    151 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-🌆 Daytime    340 commits    █████████░░░░░░░░░░░░░░░░   36.48% 
+🌆 Daytime    341 commits    █████████░░░░░░░░░░░░░░░░   36.59% 
 🌃 Evening    423 commits    ███████████░░░░░░░░░░░░░░   45.39% 
-🌙 Night      18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+🌙 Night      17 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82%
 
 ```
 📅 **I'm Most Productive on Friday** 
