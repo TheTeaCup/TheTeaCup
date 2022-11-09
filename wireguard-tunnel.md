@@ -28,8 +28,9 @@ iptables -t nat -A PREROUTING -d PublicIP -p tcp -j DNAT --to-dest 10.66.66.2
 ```
 
 # Client Setup
-- Install Wire Guard
+- Install Wire Guard & Supporting Packages
 ```bash
+apt install resolvconf
 apt-get install wireguard
 ```
 - Setup systemctl to start on boot [click me](https://www.ivpn.net/knowledgebase/linux/linux-autostart-wireguard-in-systemd/)
