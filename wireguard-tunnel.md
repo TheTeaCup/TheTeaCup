@@ -4,6 +4,10 @@ Two Terms to remember Client and Host,
 Client is the device that is connecting to the host.
 Also, thank you to [Dan](https://danbot.host) for the help with this.
 
+# Example:
+ - Host - VPS
+ - Client - Dedi
+
 # Host Setup
 - Install Wire Guard 
 ```bash
