@@ -5,7 +5,7 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 🔭 I’m currently working on a [Kastel](https://github.com/Kastelll) a chat platform
 - 🌱 I’m currently learning GoLang!
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
-- 📫 How to reach me: [hello@theteacup.dev](mailto:hello@theteacup.dev)
+- 📫 How to reach me: [hello@hunterwilson.dev](mailto:hello@hunterwilson.dev)
 - 😄 Pronouns: He/Him/His
 - Discord: `Tea Cup#9999`
 
