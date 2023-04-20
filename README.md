@@ -6,8 +6,8 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 🌱 I’m currently learning GoLang!
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
 - 📫 How to reach me: [hello@hunterwilson.dev](mailto:hello@hunterwilson.dev)
-- 😄 Pronouns: He/Him/His
 - Discord: `Tea Cup#9999`
+- Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2035%20mins-blue)
