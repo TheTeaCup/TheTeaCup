@@ -6,7 +6,7 @@ Hi, I'm Hunter but on the internet I go by Tea Cup :)
 - 🌱 I’m currently learning GoLang!
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
 - 📫 How to reach me: [hello@hunterwilson.dev](mailto:hello@hunterwilson.dev)
-- Discord: `Tea Cup#9999`
+- Discord: `the.tea.cup`
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
