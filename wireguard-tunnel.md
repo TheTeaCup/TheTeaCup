@@ -11,9 +11,9 @@ Also, thank you to [Dan](https://danbot.host) for the help with this.
 # Host Setup
 - Install Wire Guard 
 ```bash
-  curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
-  chmod +x wireguard-install.sh
-  ./wireguard-install.sh
+curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+chmod +x wireguard-install.sh
+./wireguard-install.sh
 ```
 - Copy client file info to your client device
 - Setup IpTables 
