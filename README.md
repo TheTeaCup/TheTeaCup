@@ -12,15 +12,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 81.9 kB Used in GitHub's Storage 
+> 📦 82.0 kB Used in GitHub's Storage 
  > 
-> 🏆 411 Contributions in the Year 2024
+> 🏆 412 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   872 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Monday                   873 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 Wednesday                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 Thursday                 644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 Friday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Sunday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Saturday                 697 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Sunday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 ```
 
 
@@ -45,18 +45,16 @@ Sunday                   779 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████░░░░░░░░░░░░   52.32 % 
-JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kastel-nextui            39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
