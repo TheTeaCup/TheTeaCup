@@ -12,15 +12,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-571%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 82.0 kB Used in GitHub's Storage 
+> 📦 82.2 kB Used in GitHub's Storage 
  > 
-> 🏆 412 Contributions in the Year 2024
+> 🏆 413 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   873 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Monday                   874 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Wednesday                626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Thursday                 644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 Friday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 Saturday                 697 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Sunday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Sunday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -45,16 +45,23 @@ Sunday                   779 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 1 min          ██████████████████░░░░░░░   71.18 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontend                 1 hr 3 mins         ██████████████████░░░░░░░   72.82 % 
+kastel-nextui            15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+rate-my-prof             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
