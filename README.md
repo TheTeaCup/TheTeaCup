@@ -18,9 +18,9 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 **🐱 My GitHub Data** 
 
-> 📦 87.9 kB Used in GitHub's Storage 
+> 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 483 Contributions in the Year 2024
+> 🏆 484 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,7 +31,7 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   844 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Monday                   845 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 Tuesday                  524 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 Wednesday                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Thursday                 631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
@@ -45,16 +45,17 @@ Sunday                   753 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ████████████████████████░   94.11 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kastel-internal-tools    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
