@@ -10,17 +10,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 89.2 kB Used in GitHub's Storage 
+> 📦 89.4 kB Used in GitHub's Storage 
  > 
-> 🏆 490 Contributions in the Year 2024
+> 🏆 491 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +29,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   542 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Tuesday                  365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   330 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Saturday                 373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Sunday                   504 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Monday                   589 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Tuesday                  388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Wednesday                453 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 419 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Sunday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 ```
 
 
@@ -45,21 +43,16 @@ Sunday                   504 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               32 mins             ██████████████████████░░░   88.21 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kastel-internal-tools    36 mins             █████████████████████████   98.08 % 
-kastel-bot               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-kastel-status            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
