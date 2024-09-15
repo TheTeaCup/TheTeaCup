@@ -10,17 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 89.6 kB Used in GitHub's Storage 
+> 📦 89.9 kB Used in GitHub's Storage 
  > 
-> 🏆 496 Contributions in the Year 2024
+> 🏆 497 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   590 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Tuesday                  388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Wednesday                456 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 423 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Saturday                 420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   540 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Monday                   637 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Tuesday                  411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Wednesday                487 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Friday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
