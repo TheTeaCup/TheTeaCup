@@ -10,17 +10,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2030%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.0 kB Used in GitHub's Storage 
+> 📦 98.1 kB Used in GitHub's Storage 
  > 
-> 🏆 538 Contributions in the Year 2024
+> 🏆 539 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,11 +29,11 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   717 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Monday                   717 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 Tuesday                  439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Wednesday                538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Thursday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 Sunday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 ```
@@ -45,17 +43,16 @@ Sunday                   593 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      4 mins              ███████████████████████░░   90.43 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CIS-3750                 5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
