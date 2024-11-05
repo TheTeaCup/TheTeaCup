@@ -10,15 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 98.1 kB Used in GitHub's Storage 
+> 📦 98.2 kB Used in GitHub's Storage 
  > 
-> 🏆 539 Contributions in the Year 2024
+> 🏆 544 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -29,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   717 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Tuesday                  439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Wednesday                538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Thursday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Sunday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Monday                   721 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Tuesday                  439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Wednesday                538 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 531 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Saturday                 554 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Sunday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 ```
 
 
@@ -43,16 +45,17 @@ Sunday                   593 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      2 mins              ████████████████████████░   96.57 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CIS-3750                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
