@@ -10,17 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 100.5 kB Used in GitHub's Storage 
+> 📦 100.6 kB Used in GitHub's Storage 
  > 
-> 🏆 574 Contributions in the Year 2024
+> 🏆 576 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   727 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Tuesday                  441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                540 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Sunday                   599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Monday                   727 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Tuesday                  442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                540 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 534 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 556 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   599 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
