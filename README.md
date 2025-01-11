@@ -10,15 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 102.9 kB Used in GitHub's Storage 
+> 📦 103.1 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2025
+> 🏆 6 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -32,9 +34,9 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 Monday                   641 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 Tuesday                  430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 Wednesday                482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Thursday                 458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Friday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Saturday                 543 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 459 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Saturday                 543 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 Sunday                   519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 
@@ -43,16 +45,17 @@ Sunday                   519 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              ████████████████████████░   94.97 % 
+CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+kastel-frontend          0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
