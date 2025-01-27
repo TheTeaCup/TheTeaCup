@@ -3,7 +3,7 @@
 Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 - 🔭 I’m currently working on a [Kastel](https://github.com/KastelApp) a chat platform
-- 🌱 I’m currently learning [SQL](https://github.com/TheTeaCup/CIS-3750)!
+- 🌱 I’m currently relearning [Python](https://github.com/TheTeaCup/CIS-3680)!
 - 💬 Ask me anything [here](https://github.com/TheTeaCup/TheTeaCup/issues)
 - 📫 How to reach me: [hello@hunterwilson.dev](mailto:hello@hunterwilson.dev)
 - Discord: `the.tea.cup`
