@@ -18,7 +18,8 @@ chmod +x wireguard-install.sh
 - Copy client file info to your client device
 - Setup IpTables 
 ```bash
-iptables -t nat -A PREROUTING -d PublicIP -p tcp -j DNAT --to-dest 10.66.66.2 
+iptables -t nat -A PREROUTING -d PublicIP -p tcp -j DNAT --to-dest 10.66.66.2
+iptables -t nat -A PREROUTING -d PublicIP -p udp -j DNAT --to-dest 10.66.66.2 
 ```
 - Install Persistant IpTables
 ```bash
