@@ -12,15 +12,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.1 kB Used in GitHub's Storage 
+> 📦 115.3 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2025
+> 🏆 192 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   655 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Monday                   655 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 Tuesday                  441 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Wednesday                491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Thursday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Wednesday                491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Thursday                 466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Friday                   399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Saturday                 542 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Sunday                   538 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Sunday                   538 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 ```
 
 
