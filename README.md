@@ -16,9 +16,9 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.3 kB Used in GitHub's Storage 
+> 📦 124.5 kB Used in GitHub's Storage 
  > 
-> 🏆 275 Contributions in the Year 2025
+> 🏆 276 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
