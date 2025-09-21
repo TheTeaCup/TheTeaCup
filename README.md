@@ -10,15 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-846.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.5 kB Used in GitHub's Storage 
+> 📦 124.7 kB Used in GitHub's Storage 
  > 
-> 🏆 276 Contributions in the Year 2025
+> 🏆 278 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -29,11 +31,11 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               20 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+TypeScript               14 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+R                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
