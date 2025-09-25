@@ -10,15 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-846.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.8 kB Used in GitHub's Storage 
+> 📦 125.0 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2025
+> 🏆 280 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -26,6 +28,37 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
  > 
 > 🔑 19 Private Repositories 
  > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Tuesday                  275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Wednesday                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Thursday                 202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Friday                   277 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Sunday                   255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               26 mins             ███████████████████████░░   92.92 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
+🔥 Editors: 
+VS Code                  28 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+PrintR                   28 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  28 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
