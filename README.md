@@ -10,7 +10,7 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -18,9 +18,9 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.5 kB Used in GitHub's Storage 
+> 📦 129.7 kB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2025
+> 🏆 320 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Wednesday                282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Thursday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Thursday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Friday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Saturday                 201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 ```
 
 
