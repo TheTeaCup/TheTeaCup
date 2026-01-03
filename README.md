@@ -10,17 +10,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%209%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.99%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.04%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 131.9 kB Used in GitHub's Storage 
+> 📦 132.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,36 +26,6 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
  > 
 > 🔑 20 Private Repositories 
  > 
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Saturday                 175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               6 mins              ████████████████████████░   94.19 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-
-🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-campus-dining            6 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
