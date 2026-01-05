@@ -10,15 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.04%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833.04%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.0 kB Used in GitHub's Storage 
+> 📦 132.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 3 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,6 +28,40 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
  > 
 > 🔑 20 Private Repositories 
  > 
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Saturday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               19 mins             █████████████████░░░░░░░░   68.17 % 
+JavaScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+SQL                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🔥 Editors: 
+VS Code                  28 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+boone-fire-logs          21 mins             ███████████████████░░░░░░   77.16 % 
+campus-dining            6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+
+💻 Operating System: 
+Windows                  28 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
