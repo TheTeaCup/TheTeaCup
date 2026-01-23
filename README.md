@@ -10,17 +10,17 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830.78%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830.88%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 133.3 kB Used in GitHub's Storage 
+> 📦 133.4 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Thursday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Friday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Tuesday                  270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Wednesday                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Thursday                 207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Friday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Saturday                 176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 
 
@@ -66,7 +66,7 @@ JavaScript               18 repos            ██████████░�
 TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
