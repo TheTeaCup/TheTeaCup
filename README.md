@@ -10,17 +10,15 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - Instagram: [HowdyHooter](https://instagram.com/HowdyHooter)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-831.15%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 133.5 kB Used in GitHub's Storage 
+> 📦 133.6 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 27 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +29,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Tuesday                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Wednesday                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Saturday                 178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Tuesday                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Wednesday                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Friday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Saturday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Sunday                   262 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 ```
 
 
@@ -45,20 +43,16 @@ Sunday                   262 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      4 mins              ██████████████░░░░░░░░░░░   54.47 % 
-Git Config               3 mins              ███████████░░░░░░░░░░░░░░   42.39 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CIS-3870                 4 mins              ██████████████░░░░░░░░░░░   56.70 % 
-boone-fire-logs          3 mins              ███████████░░░░░░░░░░░░░░   43.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
