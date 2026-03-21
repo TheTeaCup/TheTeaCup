@@ -20,7 +20,7 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 > 📦 134.3 kB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2026
+> 🏆 168 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,13 +31,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Tuesday                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Wednesday                296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Monday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Wednesday                296 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Friday                   294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
 Saturday                 182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Sunday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Sunday                   289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 ```
 
 
