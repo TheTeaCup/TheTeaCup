@@ -10,34 +10,34 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-735%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 336.5 kB Used in GitHub's Storage 
+> 📦 337.7 kB Used in GitHub's Storage 
  > 
-> 🏆 595 Contributions in the Year 2026
+> 🏆 603 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Tuesday                  364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Friday                   342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Saturday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Sunday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Monday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                533 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Thursday                 360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Friday                   433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Sunday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 ```
 
 
@@ -45,30 +45,30 @@ Sunday                   346 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 20 mins       ████████████████████████░   96.89 % 
-SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               9 hrs 9 mins        ████████████████████████░   94.08 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        7 hrs 35 mins       █████████████████████████   100.00 % 
+parkway-overlooks        9 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
+TypeScript               15 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
