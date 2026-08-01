@@ -10,15 +10,19 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%209%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 338.0 kB Used in GitHub's Storage 
+> 📦 338.3 kB Used in GitHub's Storage 
  > 
-> 🏆 746 Contributions in the Year 2026
+> 🏆 751 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,13 +33,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Tuesday                  416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Wednesday                555 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   459 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Saturday                 415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   448 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Monday                   465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Tuesday                  458 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Wednesday                716 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Thursday                 481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   561 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Saturday                 551 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Sunday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
 
 
@@ -43,22 +47,22 @@ Sunday                   448 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       █████████████████████░░░░   84.76 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               3 hrs 48 mins       ███████████████████░░░░░░   76.77 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       █████████████████████████   99.93 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  4 hrs 57 mins       █████████████████████████   99.91 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        6 hrs 17 mins       █████████████████████████   100.00 % 
+parkway-overlooks        4 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 31 mins       ██████████████████████░░░   87.80 % 
-Windows                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Mac                      3 hrs 6 mins        ████████████████░░░░░░░░░   62.78 % 
+Windows                  1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   37.22 % 
 ```
 
 🤖 **AI Coding This Week** 
