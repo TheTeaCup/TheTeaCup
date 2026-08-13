@@ -10,7 +10,7 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20mins-blue?style=flat)
 
@@ -22,7 +22,7 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 
 > 📦 338.4 kB Used in GitHub's Storage 
  > 
-> 🏆 801 Contributions in the Year 2026
+> 🏆 805 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,13 +33,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Tuesday                  545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Wednesday                956 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Friday                   754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 846 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Sunday                   754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Monday                   567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Tuesday                  546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Wednesday                966 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Thursday                 619 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Saturday                 846 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Sunday                   754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -47,21 +47,21 @@ Sunday                   754 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 6 mins        ████████████████████░░░░░   81.83 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-SQL                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               3 hrs 41 mins       ████████████████████░░░░░   81.99 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+SQL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        5 hrs 1 min         █████████████████████████   100.00 % 
+parkway-overlooks        4 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 58 mins       █████████████████████████   99.20 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Mac                      4 hrs 27 mins       █████████████████████████   99.11 % 
+Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
