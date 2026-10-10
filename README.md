@@ -10,36 +10,36 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-855%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.51%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 377.3 kB Used in GitHub's Storage 
+> 📦 378.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,210 Contributions in the Year 2026
+> 🏆 1,245 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1332 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Tuesday                  1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Wednesday                1696 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 1168 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Friday                   1410 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 2004 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Sunday                   1609 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Monday                   1551 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Tuesday                  1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Wednesday                2005 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Thursday                 1368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Friday                   1612 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Saturday                 2368 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Sunday                   1821 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 
 
@@ -47,48 +47,48 @@ Sunday                   1609 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.92 % 
-JSON                     3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-JavaScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.94 % 
+JSON                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+JavaScript               2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       ███████████████░░░░░░░░░░   60.30 % 
-Codex Vscode             5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.70 % 
+VS Code                  7 hrs 10 mins       █████████████░░░░░░░░░░░░   52.23 % 
+Codex Vscode             6 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.77 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        6 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.66 % 
-campus-dining            2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-mountaineer-housing-hub  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-fractura                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-nc-soundscape            56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+parkway-overlooks        6 hrs 47 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+parkway-overlooks-1      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+campus-dining            2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+fractura                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+referenced-chatgpt-conver35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       ███████████████░░░░░░░░░░   61.80 % 
-Mac                      5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
+Windows                  8 hrs 11 mins       ███████████████░░░░░░░░░░   59.67 % 
+Mac                      5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (52.14%)
+⏱ AI Coding Time: 8 hrs 35 mins (62.53%)
 
-✍️ 3,006 lines written by AI, 22,052 lines written by hand (12.0% AI-written)
+✍️ 2,122 lines written by AI, 21,827 lines written by hand (8.86% AI-written)
 
-🔤 2,187,200 Input Tokens, 365,592 Output Tokens
+🔤 2,275,023 Input Tokens, 381,371 Output Tokens
 
-💵 $56.18 Estimated AI Cost This Week
+💵 $34.45 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 180 AI Prompts
+🧠 20 AI Sessions, 210 AI Prompts
 
-GPT                      3,304 lines         █████████████████████████   100.00 % 
+GPT                      2,392 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.0% of written lines came from AI
-📚 Verbose Prompter — average 7,030 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 94.97% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.86% of written lines came from AI
+📚 Verbose Prompter — average 3,225 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 96.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
