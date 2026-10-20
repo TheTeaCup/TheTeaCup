@@ -10,19 +10,19 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.79%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 383.3 kB Used in GitHub's Storage 
+> 📦 385.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,320 Contributions in the Year 2026
+> 🏆 1,346 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,13 +33,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  1424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Wednesday                2063 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Thursday                 1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Friday                   1679 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 2408 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Sunday                   1828 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Monday                   921 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Wednesday                1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Friday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Sunday                   1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 
 
@@ -47,47 +47,48 @@ Sunday                   1828 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
-JavaScript               2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+TypeScript               6 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
+JavaScript               2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+CSS                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 54 mins      ██████████████████░░░░░░░   70.08 % 
-VS Code                  5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Codex Vscode             10 hrs 37 mins      ██████████████████░░░░░░░   70.57 % 
+VS Code                  4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        6 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.94 % 
-mountaineer-housing-hub  3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-nc-soundscape            2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-campus-dining            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-mountaineer-craft        1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+parkway-overlooks        7 hrs 53 mins       █████████████░░░░░░░░░░░░   52.39 % 
+nc-soundscape            2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+campus-dining            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+mountaineer-craft        1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+boone-fire-logs          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 💻 Operating System: 
-Windows                  17 hrs              █████████████████████████   100.00 % 
+Windows                  15 hrs 2 mins       █████████████████████████   99.96 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 49 mins (75.45%)
+⏱ AI Coding Time: 11 hrs 32 mins (76.67%)
 
-✍️ 10,199 lines written by AI, 499 lines written by hand (95.34% AI-written)
+✍️ 10,285 lines written by AI, 385 lines written by hand (96.39% AI-written)
 
-🔤 3,755,537 Input Tokens, 793,751 Output Tokens
+🔤 3,391,956 Input Tokens, 710,316 Output Tokens
 
-💵 $48.91 Estimated AI Cost This Week
+💵 $46.12 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 162 AI Prompts
+🧠 28 AI Sessions, 143 AI Prompts
 
-GPT                      10,742 lines        █████████████████████████   100.00 % 
+GPT                      10,709 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.34% of written lines came from AI
-📝 Concise Prompter — average 414 characters per prompt
+🤖 AI-Driven — 96.39% of written lines came from AI
+📝 Concise Prompter — average 322 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.53% of changed lines were hand-edited
+🚀 High AI Trust — 3.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
