@@ -10,19 +10,19 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.36%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 385.6 kB Used in GitHub's Storage 
+> 📦 395.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,346 Contributions in the Year 2026
+> 🏆 1,380 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,13 +33,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   921 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Tuesday                  842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Wednesday                1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Thursday                 772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Friday                   950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Saturday                 1189 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Sunday                   1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Monday                   850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Tuesday                  788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Wednesday                1015 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Friday                   843 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Saturday                 1025 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Sunday                   913 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -47,48 +47,48 @@ Sunday                   1032 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
-JavaScript               2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-CSS                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TypeScript               6 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
+JavaScript               3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+JSON                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 37 mins      ██████████████████░░░░░░░   70.57 % 
-VS Code                  4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+VS Code                  10 hrs 1 min        ███████████████░░░░░░░░░░   61.47 % 
+Codex Vscode             6 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        7 hrs 53 mins       █████████████░░░░░░░░░░░░   52.39 % 
-nc-soundscape            2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-campus-dining            1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-mountaineer-craft        1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-boone-fire-logs          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+parkway-overlooks        10 hrs 18 mins      ████████████████░░░░░░░░░   63.14 % 
+campus-dining            3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+mountaineer-craft        1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+mountaineer-housing-hub  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+mobile-app               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  15 hrs 2 mins       █████████████████████████   99.96 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Windows                  15 hrs 6 mins       ███████████████████████░░   92.59 % 
+Mac                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 32 mins (76.67%)
+⏱ AI Coding Time: 11 hrs 6 mins (68.09%)
 
-✍️ 10,285 lines written by AI, 385 lines written by hand (96.39% AI-written)
+✍️ 10,758 lines written by AI, 1,862 lines written by hand (85.25% AI-written)
 
-🔤 3,391,956 Input Tokens, 710,316 Output Tokens
+🔤 3,539,584 Input Tokens, 633,609 Output Tokens
 
-💵 $46.12 Estimated AI Cost This Week
+💵 $46.27 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 143 AI Prompts
+🧠 25 AI Sessions, 146 AI Prompts
 
-GPT                      10,709 lines        █████████████████████████   100.00 % 
+GPT                      11,188 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.39% of written lines came from AI
-📝 Concise Prompter — average 322 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.83% of changed lines were hand-edited
+🤖 AI-Driven — 85.25% of written lines came from AI
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 19.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
