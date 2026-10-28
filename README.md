@@ -10,19 +10,19 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 - LinkedIn: [Click Here](https://www.linkedin.com/in/hunter-wilson05/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-895%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-897%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 399.3 kB Used in GitHub's Storage 
+> 📦 400.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,404 Contributions in the Year 2026
+> 🏆 1,422 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,13 +33,13 @@ Hi, I'm Hunter but on the internet, I go by Tea Cup :)
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1066 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Tuesday                  970 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                1319 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Thursday                 870 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Friday                   1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Saturday                 1354 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Sunday                   1160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Monday                   2566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  2156 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                3191 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Thursday                 2040 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Friday                   2595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 3501 commits        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Sunday                   2895 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 
 
@@ -47,48 +47,48 @@ Sunday                   1160 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-JavaScript               4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-JSON                     2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TypeScript               5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+JavaScript               2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+JSON                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Markdown                 1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 43 mins      ██████████████████████░░░   86.51 % 
-Codex Vscode             2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+VS Code                  14 hrs 4 mins       ███████████████████████░░   90.88 % 
+Codex Vscode             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🐱‍💻 Projects: 
-parkway-overlooks        13 hrs 28 mins      ███████████████████░░░░░░   74.16 % 
-campus-dining            2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-mountaineer-housing-hub  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-can-you-connect-to-the-cr7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-can-x20                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+parkway-overlooks        12 hrs 34 mins      ████████████████████░░░░░   81.19 % 
+campus-dining            1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+mountaineer-housing-hub  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+wor                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+can-you-connect-to-the-cr7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  12 hrs 55 mins      ██████████████████░░░░░░░   71.11 % 
-Mac                      5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Windows                  10 hrs 36 mins      █████████████████░░░░░░░░   68.48 % 
+Mac                      4 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 16 mins (67.57%)
+⏱ AI Coding Time: 11 hrs 27 mins (73.93%)
 
-✍️ 7,346 lines written by AI, 2,476 lines written by hand (74.79% AI-written)
+✍️ 4,429 lines written by AI, 841 lines written by hand (84.04% AI-written)
 
-🔤 4,961,685 Input Tokens, 585,165 Output Tokens
+🔤 4,335,746 Input Tokens, 498,184 Output Tokens
 
-💵 $53.67 Estimated AI Cost This Week
+💵 $39.93 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 168 AI Prompts
+🧠 29 AI Sessions, 156 AI Prompts
 
-GPT                      7,662 lines         █████████████████████████   100.00 % 
+GPT                      4,637 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.79% of written lines came from AI
-📝 Concise Prompter — average 425 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 30.31% of changed lines were hand-edited
+🤖 AI-Driven — 84.04% of written lines came from AI
+📄 Detailed Prompter — average 520 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
